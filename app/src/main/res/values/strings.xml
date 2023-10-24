@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Geo Location</string>
+    <string name="googel_map_api_key">AIzaSyABjYIkCsPMzQWVHv_Ms05zXfiwjGo3IjE</string>
+</resources>
